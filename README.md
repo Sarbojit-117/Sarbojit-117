@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarbojit-117
 - 👀 I’m interested in coding, gaming, listening to music and cooking
-- 🌱 I’m currently learning C++ and python
+- 🌱 I’m currently learning python
 - 📫 How to reach me email: sarbojit-117@outlook.com, discord: Sarbojit-117#6034
 
 <!---
